@@ -89,4 +89,12 @@ This app is still under active development as part of my coursework. Additional 
 
 _(Add screenshots of the app interface here)_ 
 
+![Screenshot 2024-09-05 at 12 36 34 AM](https://github.com/user-attachments/assets/e53e9201-e762-46c4-8385-561e2fe685b8)
+![Screenshot 2024-09-05 at 12 36 43 AM](https://github.com/user-attachments/assets/eb7dcffc-cdbc-4e91-8584-5cff8fc2bdea)
+![Screenshot 2024-09-05 at 12 37 11 AM](https://github.com/user-attachments/assets/68184ab5-0058-47d2-babf-565a56011ddb)
+![Screenshot 2024-09-05 at 12 36 56 AM](https://github.com/user-attachments/assets/3e1271fe-4d9c-459e-934a-2e020841ca12)
+![Screenshot 2024-09-05 at 12 36 15 AM](https://github.com/user-attachments/assets/99137f73-6b41-47e9-9fd3-e9b05b5f7a08)
+
+
+
 
