@@ -87,6 +87,6 @@ This app is still under active development as part of my coursework. Additional 
 
 ## Screenshots
 
-_(Add screenshots of the app interface here)_ 
+
 
 

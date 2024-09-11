@@ -20,7 +20,7 @@ struct TabBar: View {
                     Label("Categories", systemImage: "square.fill.text.grid.1x2")
                 }
             
-            NewRecipeView()
+            AddRecipeView()
                 .tabItem {
                     Label("New", systemImage: "plus")
                 }
@@ -41,5 +41,6 @@ struct TabBar: View {
 struct TabBar_Previews: PreviewProvider {
     static var previews: some View {
         TabBar()
+            .environmentObject(RecipesViewModel())
     }
 }
